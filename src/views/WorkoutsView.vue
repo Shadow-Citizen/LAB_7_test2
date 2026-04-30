@@ -16,4 +16,4 @@ const store = useWorkoutStore()
   <footer>
     Калорії: {{ store.totalCalories }} |  Час: {{ store.totalDuration }}
   </footer>
-</template>
+</template> 
